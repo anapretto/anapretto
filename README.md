@@ -1,6 +1,6 @@
 <h1> Olá! Eu sou Ana Pretto 👋 </h1>
 
-- 🪴 Hoje trabalho com UX/UI Design na X Capital Bank
+- 🪴 Hoje trabalho com UX/UI Design 
 - 🌱 Estudando desenvolvimento front-end
 
 <div style="display: inline_block"><br>
