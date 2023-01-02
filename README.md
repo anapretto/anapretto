@@ -1,5 +1,5 @@
-<h1> Olá! Eu sou Ana Pretto 👋 <br> UX/UI Designer e futura Desenvolvedora Front-end! </h1>
-
+<h1> Olá! Eu sou Ana Pretto 👋 </h1>
+## UX/UI Designer e futura Desenvolvedora Front-end! 
 
 <div>
 <a href="https://github.com/anapretto">
