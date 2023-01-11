@@ -1,10 +1,6 @@
 <h1> Olá! Eu sou Ana Pretto 👋 <br> UX/UI Designer e futura Desenvolvedora Front-end!  </h1>
 
-<div>
-<a href="https://github.com/anapretto">
-<img width="420px" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapretto&layout=compact&langs_count=7&theme=dracula"/>
-<img width="420px" height="170em" src="https://github-readme-stats.vercel.app/api?username=anapretto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 
 ##
 
