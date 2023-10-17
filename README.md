@@ -15,6 +15,7 @@
 <code><img height="32" src="https://yt3.googleusercontent.com/ytc/APkrFKaUsjjsvBCg5ZHhHGRWoOQYB2PQkPrJLZMJGEOW=s176-c-k-c0x00ffffff-no-rj" alt="GSAP"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSAT6iKJ9iay2mDXKhtRwmbSyBxyq1oVYaDaiXlCr-aIEMqh0aSqmpiMYHVwNJC15hQz8&usqp=CAU" alt="Wordpress"/></code>
 
 
 <br/>
