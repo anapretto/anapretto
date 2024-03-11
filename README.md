@@ -3,8 +3,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Univali.
-- 💼 Trabalhando como Web Designer Pleno na Doutor-IE - Inteligência Automotiva
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
 - 🌱&nbsp;Em constante aprendizado.
 
 <h3>Minhas Skills</h3>
